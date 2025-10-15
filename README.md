@@ -70,3 +70,11 @@ GraphQL: Offers a flexible and efficient query mechanism for interacting with th
 **Review System**: Post and manage reviews for properties.
 **Database Optimizations**: Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
+
+#API Security
+Some of the security measures and the importance of using them
+**Authentication**: Verifies user identity to ensure only registered users access accounts and services.
+**Authorization**:To Restricts access to resources based on user roles
+**Rate Limiting**: Prevents abuse by limiting requests from the same user or IP
+**User Data Protection**: Encrypts and secures personal data to prevent leaks and unauthorised access
+**Payment Security**: Uses secure payment gateways and encryption to protect financial transactions.
