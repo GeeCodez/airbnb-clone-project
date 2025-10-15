@@ -9,7 +9,7 @@ Feature-driven development
 API Security Fundamentals
 CI/CD Pipeline integration
 
-# Team Roles and Responsibilities
+# Team Roles
 1. **Backend Developer**: responsible for implementing API endpoints , database schemans and business logic
 2. **Database Administrator**" : Manages database design, indexing, and optimizations.
 3. **DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.
