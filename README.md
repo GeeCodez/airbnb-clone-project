@@ -78,3 +78,11 @@ Some of the security measures and the importance of using them
 **Rate Limiting**: Prevents abuse by limiting requests from the same user or IP
 **User Data Protection**: Encrypts and secures personal data to prevent leaks and unauthorised access
 **Payment Security**: Uses secure payment gateways and encryption to protect financial transactions.
+
+#CI/CD Pipeline
+**Continous integration and continous deployment** are automated workflows used in software development for building and testing applications for bugs and prepares them for deployment. 
+**Continous Integration** The practice of automatically integrating (merging) code changes from multiple developers into a shared repository several times a day. Each integration is verified by automated builds and tests to detect errors early.
+**continous delivery** An extension of CI where the code is automatically prepared for release to production but the actual release is manual
+**continous deployment** A step further where every change that passes tests is automatically deployed to production without manual intervention.
+
+CI/CD pipelines improve code quality, deployment speed, and team productivity, which are crucial for the success of any software project.
