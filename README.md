@@ -59,7 +59,8 @@ update a specific review
 **Payments**
 Process payments
 
-#Feature Breakdown
+# Feature Breakdown
+
 **API Documentation**: OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
 Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
 GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend.
@@ -71,15 +72,15 @@ GraphQL: Offers a flexible and efficient query mechanism for interacting with th
 **Database Optimizations**: Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
 
-#API Security
-Some of the security measures and the importance of using them
+# API Security
+Some security measures that will be implemented and their importance to the project
 **Authentication**: Verifies user identity to ensure only registered users access accounts and services.
 **Authorization**:To Restricts access to resources based on user roles
 **Rate Limiting**: Prevents abuse by limiting requests from the same user or IP
 **User Data Protection**: Encrypts and secures personal data to prevent leaks and unauthorised access
 **Payment Security**: Uses secure payment gateways and encryption to protect financial transactions.
 
-#CI/CD Pipeline
+# CI/CD Pipeline
 **Continous integration and continous deployment** are automated workflows used in software development for building and testing applications for bugs and prepares them for deployment. 
 **Continous Integration** The practice of automatically integrating (merging) code changes from multiple developers into a shared repository several times a day. Each integration is verified by automated builds and tests to detect errors early.
 **continous delivery** An extension of CI where the code is automatically prepared for release to production but the actual release is manual
